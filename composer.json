@@ -1,0 +1,19 @@
+{
+    "name": "covaleski/base32",
+    "description": "Base32 string encoding and decoding.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "covaleski",
+            "email": "covaleski23@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Covaleski\\Base32\\": "src/"
+        }
+    }
+}
