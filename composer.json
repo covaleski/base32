@@ -1,6 +1,6 @@
 {
     "name": "covaleski/data-encoding",
-    "description": "Flexible data encoding and decoding.",
+    "description": "Data encoding and decoding.",
     "type": "library",
     "license": "MIT",
     "authors": [
